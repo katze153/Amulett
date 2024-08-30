@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "a",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.GOLDEN_CARROT"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.AMETHYST_SHARD"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.SPECKLED_MELON"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrongDiamont"
+    },
+    "name": "rgd",
+    "namespace": "mod"
+  }
+}
